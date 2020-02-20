@@ -8,3 +8,4 @@ I am a pianist
 - rm (remove)
 - ls (list)
 - echo (echo)
+- cat (print contents of a file)
