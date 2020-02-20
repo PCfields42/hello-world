@@ -7,3 +7,4 @@ I am a pianist
 - IS (input secondary)
 - rm (remove)
 - ls (list)
+- echo (echo)
