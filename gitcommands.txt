@@ -3,3 +3,4 @@ git log (shows history)
 git add (indicate which file to commit)
 git commit -m "YOUR MESSAGE"(save changes) 
 git push
+git pull (Pulls changes from GitHub)
