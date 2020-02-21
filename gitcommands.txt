@@ -1,4 +1,5 @@
 git clone (copy if your repo)
 git log (shows history)
-
-
+git add (indicate which file to commit)
+git commit -m "YOUR MESSAGE"(save changes) 
+git push
