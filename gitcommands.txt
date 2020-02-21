@@ -1,0 +1,4 @@
+git clone (copy if your repo)
+git log (shows history)
+
+
